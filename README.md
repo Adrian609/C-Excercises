@@ -25,7 +25,9 @@ Write a method Dups that takes a list of characters and returns the number of du
 Write a method LowestValue that takes a dictionary of string, integer key-value pairs. (The strings can be fruit inventory, such as "apple" and "pear" and the integers are inventory remaining, like 3.) Have the method return the smallest value in the dictionary.
 
 A pangram is a sentence that contains all the letters of the English alphabet at least once, for example: The quick brown fox jumps over the lazy dog. Write a methold PangramCheck to check a sentence to see if it is a pangram or not.
-Learn how to make 2d arrays in C#. Write a method LoShu that accepts a two-dimensional array as an argument and returns whether or not the array is a Lo Shu Magic Square. Lo Shu Magic Square have three rows and three columns, where the numbers 1 through 9 occur exactly once, and the sum of each row, each column, and each diagonal all add up to the same number.
+Learn how to make 2d arrays in C#. 
+
+Write a method LoShu that accepts a two-dimensional array as an argument and returns whether or not the array is a Lo Shu Magic Square. Lo Shu Magic Square have three rows and three columns, where the numbers 1 through 9 occur exactly once, and the sum of each row, each column, and each diagonal all add up to the same number.
 
 Write a method FilterLongWords that takes a list of words and an integer n and returns the list of words, CAPITALIZED, that are longer than n.
 
