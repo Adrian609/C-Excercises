@@ -15,3 +15,5 @@ A pangram is a sentence that contains all the letters of the English alphabet at
 Learn how to make 2d arrays in C#. Write a method LoShu that accepts a two-dimensional array as an argument and returns whether or not the array is a Lo Shu Magic Square. Lo Shu Magic Square have three rows and three columns, where the numbers 1 through 9 occur exactly once, and the sum of each row, each column, and each diagonal all add up to the same number.
 Write a method FilterLongWords that takes a list of words and an integer n and returns the list of words, CAPITALIZED, that are longer than n.
 Write a method TopTen that takes a dictionary of string, integer key-value pairs. (Imagine that the strings are names, such as "Rich" and the integers are high scores, like 300000000.) Have the method return a string, integer key-value dictionary that only contains the ten highest scores.
+
+http://www.cs.wcupa.edu/rburns/Game/assignments/hw1/
